@@ -10,7 +10,7 @@
 </ul>
 
 <h2>Demo</h2>
-View <a href="">here</a>
+View <a href="https://jiaxintan1010.github.io/interior-consultant/">here</a>
 
 <h2>Desktop View</h2>
 <img src="./images/interior-consultant-desktop-view.png" alt="interior-consultant-desktop-view-img">
